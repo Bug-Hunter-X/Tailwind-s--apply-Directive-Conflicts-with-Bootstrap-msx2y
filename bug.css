@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS's `@apply` directive within a CSS file that is also using a framework like Bootstrap.  The `@apply` directive might conflict with Bootstrap's CSS rules or classes causing unexpected styling issues.
